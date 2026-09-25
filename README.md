@@ -1,64 +1,109 @@
 # hitesshrochlani
-# Hi, I'm Hitesh 👋
+<!-- This file goes in a repo named EXACTLY your GitHub username: github.com/hiteshrrochlani/hiteshrrochlani -->
+<!-- Replace every instance of "hiteshrrochlani" below if your actual GitHub username is different -->
 
-**Senior Cloud & Infrastructure Engineer** · Identity & Cloud Security · Azure + AWS
+<div align="center">
 
-11+ years in enterprise IT, now focused on the problem I find most interesting: **making identity the security perimeter** across multi-cloud environments.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10141B,100:4FD1C5&height=200&section=header&text=Hitesh%20Rochlani&fontSize=48&fontColor=E9EDF2&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20Identity%20Security%20Engineer&descAlignY=58&descSize=18&descColor=8C97A8" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&duration=3000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=600&lines=Securing+identity+across+Azure+%26+AWS;Microsoft+Entra+ID+%7C+Conditional+Access+%7C+PIM;Zero+Trust+%7C+CSPM+%7C+Key+Vault;11%2B+years+in+enterprise+IT" alt="Typing SVG" />
 
-## 🔐 What I specialize in
+<br/>
 
-| Area | What I do |
-|---|---|
-| **Identity governance** | Microsoft Entra ID: Conditional Access, PIM, RBAC, Entitlement Management, access reviews |
-| **Cloud security posture** | Defender for Cloud, CrowdStrike CSPM, misconfiguration triage and remediation across Azure and AWS |
-| **Zero Trust architecture** | Least privilege, just-in-time access, device and session-aware policy, break-glass design |
-| **Secrets & key management** | Azure Key Vault (RBAC model, purge protection, private access, audit logging) |
-| **Multi-cloud infrastructure** | Azure and AWS landing zones, IAM boundaries, secure-by-default patterns |
+![Status](https://img.shields.io/badge/status-open%20to%20opportunities-4FD1C5?style=for-the-badge&labelColor=10141B)
+![Location](https://img.shields.io/badge/based%20in-Mumbai%2C%20India-8C97A8?style=for-the-badge&labelColor=10141B)
+![Remote](https://img.shields.io/badge/available%20for-remote%20%2F%20international-F0A93B?style=for-the-badge&labelColor=10141B)
 
-## 🧰 Toolbox
+<a href="https://hiteshrrochlani.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-visit%20site-4FD1C5?style=for-the-badge&logo=safari&logoColor=white&labelColor=10141B" /></a>
+<a href="mailto:hrochlani19@gmail.com"><img src="https://img.shields.io/badge/Email-hrochlani19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=10141B" /></a>
+<a href="https://linkedin.com/in/hiteshrrochlani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10141B" /></a>
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?logo=microsoft&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-![Bicep](https://img.shields.io/badge/Bicep-0078D4)
-![KQL](https://img.shields.io/badge/KQL-5C2D91)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-FC0000?logo=crowdstrike&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+</div>
 
-## 📦 Featured projects
+<br/>
 
-Small, focused, documented reference implementations. Each repo has a design doc, implementation, and usage notes.
+## Where I focus
 
-| Project | What it shows | Stack |
-|---|---|---|
-| [**entra-ca-baseline**](https://github.com/<your-username>/entra-ca-baseline) | Conditional Access baseline as code, deployed in report-only mode first | Terraform, azuread |
-| [**entra-graph-privileged-audit**](https://github.com/<your-username>/entra-graph-privileged-audit) | Finds standing (non-PIM) privileged roles and stale admin accounts | Python, Microsoft Graph |
-| [**entra-kql-detections**](https://github.com/<your-username>/entra-kql-detections) | Identity threat-hunting queries for Sentinel / Log Analytics | KQL |
-| [**azure-keyvault-baseline**](https://github.com/<your-username>/azure-keyvault-baseline) | Hardened Key Vault with RBAC, purge protection and audit logs | Bicep, GitHub Actions |
+🔐 **Identity governance** — Microsoft Entra ID: Conditional Access, PIM, RBAC, Entitlement Management, access reviews
+🛡️ **Cloud security posture** — Defender for Cloud, CrowdStrike CSPM, misconfiguration triage across Azure and AWS
+🏗️ **Zero Trust architecture** — least privilege, just-in-time access, break-glass design
+🔑 **Secrets & key management** — Azure Key Vault, RBAC model, audit logging
 
-## 🎓 Certifications
+<br/>
 
-- Microsoft Certified: Azure Administrator (**AZ-104**)
-- Microsoft Certified: Identity and Access Administrator (**SC-300**)
-- Microsoft Certified: AI Transformation Leader (**AB-731**)
-- Microsoft Azure Fundamentals (**AZ-900**)
-- AWS Certified Cloud Practitioner + AWS Partner accreditations
+## Toolbox
 
-## 🧭 How I approach security work
+<div align="center">
+<img src="https://skillicons.dev/icons?i=azure,aws,terraform,bicep,powershell,py,githubactions,git&theme=dark" />
+</div>
 
-- **Identity first.** Network location is a signal, not a trust boundary.
-- **Report-only before enforce.** Every policy change is measured before it can lock anyone out.
-- **Everything as code.** If it can't be reviewed in a pull request, it's hard to trust.
-- **Least privilege, time-boxed.** Standing admin access is a finding, not a default.
+<br/>
 
-## 📫 Connect
+![Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Conditional Access](https://img.shields.io/badge/Conditional%20Access-0078D4?style=flat-square)
+![PIM](https://img.shields.io/badge/PIM-0078D4?style=flat-square)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-FC0000?style=flat-square&logo=crowdstrike&logoColor=white)
+![Defender for Cloud](https://img.shields.io/badge/Defender%20for%20Cloud-0078D4?style=flat-square)
+![KQL](https://img.shields.io/badge/KQL-5C2D91?style=flat-square)
+![Key Vault](https://img.shields.io/badge/Key%20Vault-0078D4?style=flat-square)
 
-- LinkedIn: [linkedin.com/in/hiteshrrochlani](https://linkedin.com/in/hiteshrrochlani)
-- Email: hrochlani19@gmail.com
+<br/>
 
-Open to conversations about cloud security and identity engineering roles.
+## Featured projects
+
+Small, focused, documented reference implementations — each with a design doc and a working implementation.
+
+<div align="center">
+
+<a href="https://github.com/hiteshrrochlani/entra-ca-baseline"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshrrochlani&repo=entra-ca-baseline&theme=dark&bg_color=171D27&title_color=4FD1C5&text_color=E9EDF2&border_color=2A3341"/></a>
+<a href="https://github.com/hiteshrrochlani/entra-graph-privileged-audit"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshrrochlani&repo=entra-graph-privileged-audit&theme=dark&bg_color=171D27&title_color=4FD1C5&text_color=E9EDF2&border_color=2A3341"/></a>
+
+<a href="https://github.com/hiteshrrochlani/entra-kql-detections"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshrrochlani&repo=entra-kql-detections&theme=dark&bg_color=171D27&title_color=4FD1C5&text_color=E9EDF2&border_color=2A3341"/></a>
+<a href="https://github.com/hiteshrrochlani/azure-keyvault-baseline"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshrrochlani&repo=azure-keyvault-baseline&theme=dark&bg_color=171D27&title_color=4FD1C5&text_color=E9EDF2&border_color=2A3341"/></a>
+
+</div>
+
+> 📌 These pin cards only render numbers (stars, forks, language) once each repo is public on GitHub — they'll fill in automatically after you push.
+
+<br/>
+
+## GitHub stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=hiteshrrochlani&show_icons=true&theme=dark&bg_color=171D27&title_color=4FD1C5&icon_color=4FD1C5&text_color=E9EDF2&border_color=2A3341&hide_border=false"/>
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshrrochlani&theme=dark&background=171D27&stroke=2A3341&ring=4FD1C5&fire=F0A93B&currStreakLabel=4FD1C5&sideLabels=E9EDF2&currStreakNum=E9EDF2&sideNums=E9EDF2&dates=8C97A8"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshrrochlani&theme=react-dark&bg_color=171D27&color=4FD1C5&line=4FD1C5&point=E9EDF2&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## Certifications
+
+![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![SC-300](https://img.shields.io/badge/SC--300-Identity%20%26%20Access%20Admin-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AB-731](https://img.shields.io/badge/AB--731-AI%20Transformation%20Leader-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+<br/>
+
+## Let's talk
+
+I'm open to remote and international cloud security & identity engineering roles. Happy to walk through any project above.
+
+<div align="center">
+
+<a href="mailto:hrochlani19@gmail.com"><img src="https://img.shields.io/badge/Email%20me-hrochlani19%40gmail.com-4FD1C5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=10141B" /></a>
+<a href="https://linkedin.com/in/hiteshrrochlani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10141B" /></a>
+<a href="https://hiteshrrochlani.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-hiteshrrochlani.github.io-4FD1C5?style=for-the-badge&logo=safari&logoColor=white&labelColor=10141B" /></a>
+
+<br/><br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=hiteshrrochlani&color=4FD1C5&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10141B,100:4FD1C5&height=100&section=footer" width="100%"/>
