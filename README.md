@@ -1,20 +1,20 @@
 <!-- This file goes in your profile repo: github.com/hiteshrr19/hiteshrr19 -->
-<!-- Optimized for CEO, HR, and Technical Leadership evaluation -->
+<!-- Executive Landing Page Design for Hitesh Rochlani -->
 
 <div align="center">
 
-<!-- Dynamic Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10141B,100:4FD1C5&height=220&section=header&text=Hitesh%20Rochlani&fontSize=46&fontColor=E9EDF2&animation=fadeIn&fontAlignY=35&desc=Senior%20Cloud%20%26%20Identity%20Security%20Engineer&descAlignY=60&descSize=16&descColor=4FD1C5" width="100%"/>
+<!-- High-Impact Waving Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:00D26A&height=220&section=header&text=Hitesh%20Rochlani&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Senior%20Cloud%20%26%20Identity%20Security%20Engineer&descAlignY=62&descSize=16&descColor=00D26A" width="100%"/>
 
-<!-- Typing SVG Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=17&duration=3000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=650&lines=11%2B+Years+Enterprise+IT+%7C+Multi-Cloud+Security;Securing+Identity+Perimeters+across+Azure+%26+AWS;Microsoft+Entra+ID+%7C+Conditional+Access+%7C+PIM;Zero+Trust+Architecture+%7C+CSPM+%7C+Key+Vault" alt="Typing SVG" />
+<!-- Dynamic Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=650&lines=11%2B+Years+Enterprise+IT+%7C+Multi-Cloud+Security;Identity+as+the+New+Security+Perimeter;Microsoft+Entra+ID+%7C+Conditional+Access+%7C+PIM;Zero+Trust+Architecture+%7C+Azure+%26+AWS" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Executive Quick-Stats Badges -->
-<img src="https://img.shields.io/badge/Experience-11%2B%20Years-10141B?style=for-the-badge&logo=codeforces&logoColor=4FD1C5&labelColor=1a202c" />
-<img src="https://img.shields.io/badge/Specialty-Identity%20%26%20Cloud%20Security-10141B?style=for-the-badge&logo=microsoftazure&logoColor=4FD1C5&labelColor=1a202c" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Strategic%20Roles-10141B?style=for-the-badge&logo=git&logoColor=4FD1C5&labelColor=1a202c" />
+<!-- Executive Trust Badges -->
+<img src="https://img.shields.io/badge/Experience-11%2B_Years-0B0F19?style=for-the-badge&logo=codeforces&logoColor=00D26A&labelColor=161B22" />
+<img src="https://img.shields.io/badge/Domain-Identity_&_Cloud_Security-0B0F19?style=for-the-badge&logo=microsoftazure&logoColor=00D26A&labelColor=161B22" />
+<img src="https://img.shields.io/badge/Status-Open_to_Strategic_Roles-0B0F19?style=for-the-badge&logo=git&logoColor=00D26A&labelColor=161B22" />
 
 <br/><br/>
 
@@ -22,30 +22,54 @@
 
 ---
 
-### 🚀 Executive Summary
-> **"Network perimeters are fading; Identity is the new security perimeter."**
-> With **11+ years of enterprise IT experience**, I specialize in designing robust, least-privilege multi-cloud architectures across **Azure and AWS**. I bridge the gap between compliance mandates and developer velocity—turning security from a bottleneck into a business enabler.
+### 💼 Executive Brief
+> **"Network perimeters are dissolving; Identity is the only true trust boundary."**
+> With **11+ years of enterprise IT background**, I specialize in hardening multi-cloud environments across **Azure and AWS**. I bridge high-level compliance mandates with pragmatic engineering—delivering secure-by-default architectures that protect organizational assets without slowing down business velocity.
 
 ---
 
-### 📂 Quick Navigation & Core Resources
-*Explore my fully documented reference architectures, design docs, and production-ready code:*
+### ⚡ Core Competencies at a Glance
+<table width="100%">
+<tr>
+  <td width="50%" valign="top">
+    <h3>🔐 Identity & Access Management</h3>
+    <ul>
+      <li><b>Microsoft Entra ID:</b> Conditional Access, PIM, RBAC</li>
+      <li><b>Governance:</b> Entitlement Management & Access Reviews</li>
+      <li><b>Zero Trust:</b> Device & session-aware policies, Break-glass design</li>
+    </ul>
+  </td>
+  <td width="50%" valign="top">
+    <h3>☁️ Cloud Security & Infrastructure</h3>
+    <ul>
+      <li><b>CSPM:</b> Defender for Cloud & CrowdStrike</li>
+      <li><b>Multi-Cloud:</b> Secure Landing Zones (Azure & AWS)</li>
+      <li><b>Secrets:</b> Hardened Key Vaults (RBAC, Purge Protection)</li>
+    </ul>
+  </td>
+</tr>
+</table>
+
+---
+
+### 📂 Explore My Full Portfolio & Projects
+All detailed design docs, production-ready code, and technical architecture references are maintained in my core repository and live portfolio:
 
 <div align="center">
 
 <a href="https://github.com/hiteshrr19/Hitesh-Rochlani">
-  <img src="https://img.shields.io/badge/📂_Explore_Full_Profile_%26_Projects-Click_Here-4FD1C5?style=for-the-badge&logo=github&logoColor=10141B&labelColor=E9EDF2" />
+  <img src="https://img.shields.io/badge/📂_ACCESS_FULL_PROFILE_&_PROJECT_REPOS-0B0F19?style=for-the-badge&logo=github&logoColor=00D26A&labelColor=161B22" />
 </a>
 
 <br/><br/>
 
-| **Portfolio Site** | **LinkedIn Network** | **Direct Email** |
+| **🌐 Visit Portfolio Website** | **💼 Connect on LinkedIn** | **✉️ Direct Email Contact** |
 | :---: | :---: | :---: |
-| <a href="https://hiteshrr19.github.io/" target="_blank"><img src="https://img.shields.io/badge/Visit_Site-0077B5?style=flat-square&logo=safari&logoColor=white" /></a> | <a href="https://linkedin.com/in/hiteshrr19" target="_blank"><img src="https://img.shields.io/badge/Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> | <a href="mailto:hrochlani19@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> |
+| <a href="https://hiteshrr19.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-Live_Site-00D26A?style=flat-square&logo=safari&logoColor=white" /></a> | <a href="https://linkedin.com/in/hiteshrr19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> | <a href="mailto:hrochlani19@gmail.com"><img src="https://img.shields.io/badge/Email-hrochlani19@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> |
 
 </div>
 
 <br/>
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10141B,100:4FD1C5&height=100&section=footer" width="100%"/>
+<!-- Sleek Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:00D26A&height=100&section=footer" width="100%"/>
